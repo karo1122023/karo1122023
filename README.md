@@ -1,4 +1,4 @@
-<h1>Hi, I'm Karo! <br/><a href="https://github.com/karo1122023">Cybersecurity Analyst (SOC I) Apprentice</a>
+<h1>Hi, I'm Karo! <br/><a href="https://github.com/karo1122023"</a>
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
