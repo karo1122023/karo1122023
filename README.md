@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
-  - [Microsoft Azure Sentinel (SIEM) honeypot lab](https://github.com/karo1122023/LABURL)
+  - [Microsoft Azure Sentinel (SIEM) honeypot lab](https://github.com/karo1122023/MicrosoftSentinelSIEMhoneypotlab)
 
 <h2>📜 Certifications:</h2>
  
