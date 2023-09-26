@@ -16,7 +16,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/karo-abobo-8710b3277
+[linkedin]: (www.linkedin.com/in/karo-abobo-8710b3277](https://www.linkedin.com/in/karo-abobo-8710b3277/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
