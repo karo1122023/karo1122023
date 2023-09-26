@@ -12,7 +12,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- [linkedin](www.linkedin.com/in/karo-abobo-8710b3277)
+- [linkedin](httos://www.linkedin.com/in/karo-abobo-8710b3277)
 
 [<img align="left" alt="KaroAbobo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
