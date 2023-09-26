@@ -1,9 +1,5 @@
 <h1>Hi, I'm Karo! <br/><a href="https://github.com/karo1122023">Cybersecurity Analyst (SOC I) Apprentice</a>
 
-<h2>👨‍💻 linkedin:</h2>
-
-  - [Microsoft Sentinel (SIEM) honeypot lab](www.linkedin.com/in/karo-abobo-8710b3277)
-
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
   - [Microsoft Sentinel (SIEM) honeypot lab](https://github.com/karo1122023/LABURL)
