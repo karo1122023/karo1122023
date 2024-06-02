@@ -6,7 +6,8 @@
 
 <h2>📜 Certifications:</h2>
  
-  - [CompTIA Security+](https://www.credly.com/badges/0e660813-d1af-4fff-9843-aa4ad101bfe5/public_url)
+  - [CompTIA CySA+](https://www.credly.com/badges/2b80483d-a1c2-48d3-b3b4-f6e7d33b4a4e/public_url)
+  -  [CompTIA Security+](https://www.credly.com/badges/0e660813-d1af-4fff-9843-aa4ad101bfe5/public_url)
   - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/0e660813-d1af-4fff-9843-aa4ad101bfe5/public_url)
 
 
